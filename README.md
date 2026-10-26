@@ -6,7 +6,7 @@ Event Date: 10.02.2025 (Monday)
 Venue: Ground floor of Aryabhatta Bhavan
 Innovation toward Sustainibility: Showcase your Innovative Ideas
 
-Sub-Themes
+**Sub-Themes**
 Ecofriendly solutions for Environmental Pollution Control  
 Reduction of Health Hazards  
 Cost Reduction  
